@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MTMySchool</string>
+    <string name="app_saludo">BIENVENIDOS</string>
+    <string name="myschool">MySchool</string>
+    <string name="lauch">Lauch</string>
+    <string name="animacion">raw/data</string>
+    <string name="logoimagen">logoimagen</string>
+    <string name="TextPassword">TextPassword</string>
+    <string name="Informacion_acudiente">Registro Estudiante</string>
+    <string name="registrar">Registrar</string>
+</resources>
